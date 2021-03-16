@@ -31,4 +31,4 @@ Please have a look at the NLeSC guide for guidelines about software development.
    :maxdepth: 1
    :caption: API Reference
 
-   reference/analyse_spreadsheet
+   analyse_spreadsheet
